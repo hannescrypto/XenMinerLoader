@@ -47,8 +47,9 @@ This File is the main File which does all the magic
 
 start script with
 
-start terminal 
-bash XenMinerLoader/XenMinerLoader.sh
+start terminal
+
+### bash XenMinerLoader/XenMinerLoader.sh
 
 
 ##########################################
@@ -63,7 +64,8 @@ This File has only on function => stop all tmux sessions/windows and therefor al
 start script with
 
 start terminal 
-bash XenMinerLoader/stopMiner.sh
+
+### bash XenMinerLoader/stopMiner.sh
 
 
 have fun guys
