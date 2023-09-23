@@ -49,7 +49,9 @@ start script with
 
 start terminal
 
-### bash XenMinerLoader/XenMinerLoader.sh
+### cd XenMinerLoader
+
+### bash XenMinerLoader.sh
 
 
 ##########################################
@@ -65,7 +67,9 @@ start script with
 
 start terminal 
 
-### bash XenMinerLoader/stopMiner.sh
+### cd XenMinerLoader
+
+### bash stopMiner.sh
 
 
 have fun guys
