@@ -2,22 +2,33 @@
 Automatic Loader of miner.py with address change and threads amount
 
 ##########################################
-XenMinerLoader by HannesCrypto_Version 1.0
+
+# XenMinerLoader by HannesCrypto_Version 1.0
+
 ##########################################
 
+
+
+
 First of all you have to install all requirements to run this script see here the originall Github Site from JackLevin74
-https://github.com/jacklevin74/xenminer/tree/main
+.
+## https://github.com/jacklevin74/xenminer/tree/main
+.
 
 Second load up my Github via the command
-git clone https://github.com/hannescrypto/XenMinerLoader
+
+## git clone https://github.com/hannescrypto/XenMinerLoader
 
 
 Now there are two files which i coded
 
 
 ##########################################
-   XenMinerLoader.sh
+
+# XenMinerLoader.sh
+
 ##########################################
+
 Config: open the file with an editor and change myethaddress and if you like coresautostart
 
 
@@ -39,9 +50,13 @@ start script with
 start terminal 
 bash XenMinerLoader/XenMinerLoader.sh
 
+
 ##########################################
-   stopMiner.sh
+
+# stopMiner.sh
+
 ##########################################
+
 
 This File has only on function => stop all tmux sessions/windows and therefor also the XenMinerLoader
 
