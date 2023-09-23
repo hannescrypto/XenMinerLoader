@@ -8,6 +8,9 @@ XenMinerLoader by HannesCrypto_Version 1.0
 First of all you have to install all requirements to run this script see here the originall Github Site from JackLevin74
 https://github.com/jacklevin74/xenminer/tree/main
 
+Second load up my Github via the command
+git clone https://github.com/hannescrypto/XenMinerLoader
+
 
 Now there are two files which i coded
 
