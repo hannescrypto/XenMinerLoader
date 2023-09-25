@@ -1,3 +1,30 @@
+##########################################
+
+# XenMinerLoader by HannesCrypto_Version 1.1
+
+##########################################
+
+
+1.) now fully up to date with new MINER.PY, CONFIG.CONF files
+
+2.) new FirstStartup function to set up without editor
+
+3.) should be now totaly futureproof
+
+
+if you like my work, i would love to get some coffeemoney ;-)
+
+0xAced49A0E6ac8178De4150Fd3831eB3EA36a3e49
+
+
+thanks guys, hope you like it
+
+
+
+
+
+
+
 # XenMinerLoader
 Automatic Loader of miner.py with address change and threads amount
 
@@ -56,7 +83,7 @@ start terminal
 
 ##########################################
 
-# stopMiner.sh
+# XenMinerLoaderSTOP.sh
 
 ##########################################
 
@@ -70,6 +97,15 @@ start terminal
 ### cd XenMinerLoader
 
 ### bash stopMiner.sh
+
+##########################################
+
+# XenMinerLoaderCONFIG.txt
+
+##########################################
+
+here all userdata can be stored, with version 1.1 you dont have to use this anymore because of the FirstStartup feature. Only if you like to edit it after first start you can edit this file via editor
+
 
 
 have fun guys
