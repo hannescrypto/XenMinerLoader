@@ -107,8 +107,15 @@ echo -e "Enter number of Threads for the XENMINER"
 echo -e "From 1 threads to 40 thread"
 echo -e "=> 30 seconds left or Threads: " $XenMinerLoaderSetThreads
 echo -e " "
-VAR=$XenMinerLoaderSetThreads
+
 read -t 30 VAR
+
+if [ -z "$VAR" ]; then
+  VAR="$XenMinerLoaderSetThreads"
+fi
+
+echo -e "VAR: $VAR"
+
 
 
 
