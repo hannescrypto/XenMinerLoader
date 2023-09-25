@@ -1,0 +1,3 @@
+XenMinerLoaderEthaddress=0x43709189a8c534ac2e65D01a2c8ceE56B702001A
+XenMinerLoaderSetThreads=1
+XenMinerLoaderFirstStartup=1
